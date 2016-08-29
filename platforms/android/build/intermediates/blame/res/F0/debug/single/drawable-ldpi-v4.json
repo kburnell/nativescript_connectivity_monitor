@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/KBurnell/Falafel/Dev/blog_posts/nativescript/ns_connectivity_monitor/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    }
+]

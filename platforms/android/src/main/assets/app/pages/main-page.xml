@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo">
+  <StackLayout>
+    <Label text="{{ connectionStatus }}" class="title"/>
+    <Label text="Toggle your machines ethernet/wifi connection to see callback" class="message" textWrap="true"/>
+  </StackLayout>
+</Page>
